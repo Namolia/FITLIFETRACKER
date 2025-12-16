@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7108097712",
+    "project_id": "fitlifetracker-52118",
+    "storage_bucket": "fitlifetracker-52118.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7108097712:android:cc9ff1ff3fcc9ecb8e2d75",
+        "android_client_info": {
+          "package_name": "com.example.fitlifetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoJzvw1ZlUpkdy6lVIPrOqY6qfLvQ5IFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
